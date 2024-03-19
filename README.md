@@ -1,4 +1,4 @@
-# Power factor and phase angle simulation
+# Power factor and phase angle simulations and calculations
 
 This project shows how to conduct Power factor calulations via simulations on simulink.
 
